@@ -5,7 +5,7 @@
    viewBox="0 0 164 42"
    version="1.1"
    id="svg17"
-   sodipodi:docname="distribution_logo.svg"
+   sodipodi:docname="distribution_logo_transparent.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,7 +25,7 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="5.5432121"
-     inkscape:cx="59.893071"
+     inkscape:cx="27.871926"
      inkscape:cy="11.184851"
      inkscape:window-width="1600"
      inkscape:window-height="808"
@@ -61,7 +61,7 @@
      id="path12817" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:21.0971px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#002424;fill-opacity:1;stroke:none;stroke-width:0.527428"
+     style="font-style:normal;font-weight:normal;font-size:21.0971px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.87960023;stroke:none;stroke-width:0.527428"
      x="43.98946"
      y="28.217505"
      id="text6047"><tspan
@@ -69,7 +69,7 @@
        id="tspan6045"
        x="43.98946"
        y="28.217505"
-       style="fill:#002424;fill-opacity:1;stroke-width:0.527428">DebianDDE</tspan></text>
+       style="fill:#ffffff;fill-opacity:0.87960023;stroke-width:0.527428">DebianDDE</tspan></text>
   <metadata
      id="metadata137">
     <rdf:RDF>
